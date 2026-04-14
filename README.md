@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    title>Cool Breeze | Ropa sencilla para la vida real</title>
     <style>
         /* 全局样式 */
         * {
